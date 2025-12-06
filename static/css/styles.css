@@ -1,0 +1,55 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 1rem 8rem;
+}
+
+table {
+    font-size: smaller;
+}
+
+#header-img {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+header h3 {
+    margin: 1rem 0rem;
+    border-bottom: 1px solid grey;
+    padding: 1rem;
+}
+
+form {
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 810px) {
+    body {
+        padding: 1rem 2rem;
+    }
+    table {
+        font-size: small;
+    }
+    #header-img img{
+        height: 60px;
+    }
+ }
+ 
+
+ @media screen and (max-width: 475px) {
+    body {
+        padding: 1rem 1rem;
+        font-size: smaller;
+    }
+    table {
+        font-size: x-small;
+    }
+    #header-img img{
+        height: 50px;
+    }
+ }
