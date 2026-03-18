@@ -1,7 +1,6 @@
-**CSE508: Information Retrieval Final Project**
 
 **Introduction** \
-Our Information Retrieval Project is an online tool that enables users to identify relevant courses based on their preferences and areas of interest. FastAPI, a cutting-edge, quick web framework for Python 3.7+ API development that is based on common Python type hints, was used to construct the project. High performance, automated documentation, and simple connection with other programmes and libraries are just a few advantages offered by FastAPI. \
+This is an online tool that enables users to identify relevant courses based on their preferences and areas of interest. FastAPI, a cutting-edge, quick web framework for Python 3.7+ API development that is based on common Python type hints, was used to construct the project. High performance, automated documentation, and simple connection with other programmes and libraries are just a few advantages offered by FastAPI. \
 
 We were able to design this project with FastAPI and end up with a dependable, scalable, and user-friendly online application that offers users precise and individualised course suggestions. With the aid of FastAPI's capabilities, we were able to develop a strong recommendation system that can adjust to the user's preferences and deliver pertinent results in real-time.
 
